@@ -2,10 +2,10 @@
 
 /* 値上がり */
 .highlight-2GhssDiZ.growing-2GhssDiZ, .symbol-EJ_LFrif .plus-EJ_LFrif {
-    color: #f44336 !important;
+	color: #f44336 !important;
 }
 
 /* 値下がり */
 .highlight-2GhssDiZ.falling-2GhssDiZ, .symbol-EJ_LFrif .minus-EJ_LFrif {
-    color: #26a69a !important;
+	color: #26a69a !important;
 }
