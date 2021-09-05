@@ -9,3 +9,12 @@
 .highlight-2GhssDiZ.falling-2GhssDiZ, .symbol-EJ_LFrif .minus-EJ_LFrif {
 	color: #26a69a !important;
 }
+
+/*バー(緑→赤)*/
+.range-1c6h-6Rx .bar-1c6h-6Rx {
+	background-color: #f44336 !important;
+}
+/*バー(赤→緑)*/
+.range-1c6h-6Rx .bar-1c6h-6Rx.low-1c6h-6Rx {
+	background-color: #00bfa5 !important;
+}
