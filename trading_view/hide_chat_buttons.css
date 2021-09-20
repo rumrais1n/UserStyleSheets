@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+.button-DABaJZo4.isGrayed-DABaJZo4[data-name="chats"], .button-DABaJZo4.isGrayed-DABaJZo4[data-name="pm_chats"] {
+    display: none;   
+}
